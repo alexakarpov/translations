@@ -48,6 +48,7 @@
 
 Когда мы говорим о "неравном распределении доходов", мы всегда должны задать вопрос - откуда приходят доходы?[8] Кто создал богатство, которое они представляют? Потому что если доходы варьируются в зависимости от того, сколько богатства люди создают, распределение может быть неравным, но вряд ли нечестным.
 
+
 Грабеж!
 
 Вторая причина, по которой мы настороженно относимся к разнице в уровне богатства, заключается в том, что на протяжении большей части человеческой истории обычным способом накопления богатств было воровство. В кочевых культурах - угон скота; в аграрных - захват земли во время войны, и налогообложение в мирное время.
@@ -73,6 +74,7 @@
 "За каждым большим состоянием стоит большое преступление", писал Бальзак. С той лишь разницей, что он этого не писал. Что он действительно писал, так это то, что за большим состоянием, у которого нет очевидной причины, скорее всего стоит преступление, которое так мастерски исполненно, что о нем уже забыли. Если мы говорим о Европе 1000-х, или о странах третьего мира сегодня, то это неправильное цитирование будет справедливым. Но Бальзак жил во Франции 19 века, где Индустриальная Революция уже шла полным ходом. Он знал, что можно сколотить состояние и без грабежа - он и сам в этом преуспел, будучи популярным писателем.[12]
 
 Только немногие страны - и, конечно, это совсем не совпадение, что страны самые богатые - дошли до этой стадии. В большинстве же стран коррупция все еще была столбовой дорогой к богатству. Поэтому когда мы наблюдаем за увеличивающимся неравеноством в доходах в богатой стране, наша тедненция - волноваться, что мы движемся назад, в сторону новой Венесуэлы. А по-моему, происходит ровно противоположное. Мы видим страну, которая на шаг впереди Венесуэлы.
+
 
 Рычаг Технологии
 
@@ -142,3 +144,52 @@
 
 (Некоторые профессора создают очень значительное богатство для общества - но деньги, которые они получают, от этого не зависят; это скорее вроде долгосрочных инвестиций).
 
+[2] When one reads about the origins of the Fabian Society, it sounds like something cooked up by the high-minded Edwardian child-heroes of Edith Nesbit's The Wouldbegoods.
+
+[3] According to a study by the Corporate Library, the median total compensation, including salary, bonus, stock grants, and the exercise of stock options, of S&P 500 CEOs in 2002 was $3.65 million. According to Sports Illustrated, the average NBA player's salary during the 2002-03 season was $4.54 million, and the average major league baseball player's salary at the start of the 2003 season was $2.56 million. According to the Bureau of Labor Statistics, the mean annual wage in the US in 2002 was $35,560.
+
+[4] In the early empire the price of an ordinary adult slave seems to have been about 2,000 sestertii (e.g. Horace, Sat. ii.7.43). A servant girl cost 600 (Martial vi.66), while Columella (iii.3.8) says that a skilled vine-dresser was worth 8,000. A doctor, P. Decimus Eros Merula, paid 50,000 sestertii for his freedom (Dessau, Inscriptiones 7812). Seneca (Ep. xxvii.7) reports that one Calvisius Sabinus paid 100,000 sestertii apiece for slaves learned in the Greek classics. Pliny (Hist. Nat. vii.39) says that the highest price paid for a slave up to his time was 700,000 sestertii, for the linguist (and presumably teacher) Daphnis, but that this had since been exceeded by actors buying their own freedom.
+
+Classical Athens saw a similar variation in prices. An ordinary laborer was worth about 125 to 150 drachmae. Xenophon (Mem. ii.5) mentions prices ranging from 50 to 6,000 drachmae (for the manager of a silver mine).
+
+For more on the economics of ancient slavery see:
+
+Jones, A. H. M., "Slavery in the Ancient World," Economic History Review, 2:9 (1956), 185-199, reprinted in Finley, M. I. (ed.), Slavery in Classical Antiquity, Heffer, 1964.
+
+[5] Eratosthenes (276—195 BC) used shadow lengths in different cities to estimate the Earth's circumference. He was off by only about 2%.
+
+[6] No, and Windows, respectively.
+
+[7] One of the biggest divergences between the Daddy Model and reality is the valuation of hard work. In the Daddy Model, hard work is in itself deserving. In reality, wealth is measured by what one delivers, not how much effort it costs. If I paint someone's house, the owner shouldn't pay me extra for doing it with a toothbrush.
+
+It will seem to someone still implicitly operating on the Daddy Model that it is unfair when someone works hard and doesn't get paid much. To help clarify the matter, get rid of everyone else and put our worker on a desert island, hunting and gathering fruit. If he's bad at it he'll work very hard and not end up with much food. Is this unfair? Who is being unfair to him?
+
+[8] Part of the reason for the tenacity of the Daddy Model may be the dual meaning of "distribution." When economists talk about "distribution of income," they mean statistical distribution. But when you use the phrase frequently, you can't help associating it with the other sense of the word (as in e.g. "distribution of alms"), and thereby subconsciously seeing wealth as something that flows from some central tap. The word "regressive" as applied to tax rates has a similar effect, at least on me; how can anything regressive be good?
+
+[9] "From the beginning of the reign Thomas Lord Roos was an assiduous courtier of the young Henry VIII and was soon to reap the rewards. In 1525 he was made a Knight of the Garter and given the Earldom of Rutland. In the thirties his support of the breach with Rome, his zeal in crushing the Pilgrimage of Grace, and his readiness to vote the death-penalty in the succession of spectacular treason trials that punctuated Henry's erratic matrimonial progress made him an obvious candidate for grants of monastic property."
+
+Stone, Lawrence, Family and Fortune: Studies in Aristocratic Finance in the Sixteenth and Seventeenth Centuries, Oxford University Press, 1973, p. 166.
+
+[10] There is archaeological evidence for large settlements earlier, but it's hard to say what was happening in them.
+
+Hodges, Richard and David Whitehouse, Mohammed, Charlemagne and the Origins of Europe, Cornell University Press, 1983.
+
+[11] William Cecil and his son Robert were each in turn the most powerful minister of the crown, and both used their position to amass fortunes among the largest of their times. Robert in particular took bribery to the point of treason. "As Secretary of State and the leading advisor to King James on foreign policy, [he] was a special recipient of favour, being offered large bribes by the Dutch not to make peace with Spain, and large bribes by Spain to make peace." (Stone, op. cit., p. 17.)
+
+[12] Though Balzac made a lot of money from writing, he was notoriously improvident and was troubled by debts all his life.
+
+[13] A Timex will gain or lose about .5 seconds per day. The most accurate mechanical watch, the Patek Philippe 10 Day Tourbillon, is rated at -1.5 to +2 seconds. Its retail price is about $220,000.
+
+[14] If asked to choose which was more expensive, a well-preserved 1989 Lincoln Town Car ten-passenger limousine ($5,000) or a 2004 Mercedes S600 sedan ($122,000), the average Edwardian might well guess wrong.
+
+[15] To say anything meaningful about income trends, you have to talk about real income, or income as measured in what it can buy. But the usual way of calculating real income ignores much of the growth in wealth over time, because it depends on a consumer price index created by bolting end to end a series of numbers that are only locally accurate, and that don't include the prices of new inventions until they become so common that their prices stabilize.
+
+So while we might think it was very much better to live in a world with antibiotics or air travel or an electric power grid than without, real income statistics calculated in the usual way will prove to us that we are only slightly richer for having these things.
+
+Another approach would be to ask, if you were going back to the year x in a time machine, how much would you have to spend on trade goods to make your fortune? For example, if you were going back to 1970 it would certainly be less than $500, because the processing power you can get for $500 today would have been worth at least $150 million in 1970. The function goes asymptotic fairly quickly, because for times over a hundred years or so you could get all you needed in present-day trash. In 1800 an empty plastic drink bottle with a screw top would have seemed a miracle of workmanship.
+
+[16] Some will say this amounts to the same thing, because the rich have better opportunities for education. That's a valid point. It is still possible, to a degree, to buy your kids' way into top colleges by sending them to private schools that in effect hack the college admissions process.
+
+According to a 2002 report by the National Center for Education Statistics, about 1.7% of American kids attend private, non-sectarian schools. At Princeton, 36% of the class of 2007 came from such schools. (Interestingly, the number at Harvard is significantly lower, about 28%.) Obviously this is a huge loophole. It does at least seem to be closing, not widening.
+
+Perhaps the designers of admissions processes should take a lesson from the example of computer security, and instead of just assuming that their system can't be hacked, measure the degree to which it is.
